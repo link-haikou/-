@@ -36,7 +36,14 @@ footer{padding:30px 0;background:#233743;color:#d9e2e1}.foot{display:flex;justif
 <section class="section alt" id="schedule"><div class="wrap"><div class="section-head"><span class="eyebrow">SCHEDULE</span><h2>開催スケジュール</h2><p>当日の詳しいプログラムは、決まり次第こちらでお知らせします。</p></div><div class="calendar"><div class="calendar-item"><div class="calendar-date"><span>DAY</span><strong>11–16</strong></div><div><h3>昼の部</h3><p>12月20日（日）11:00〜16:00<br>出店や体験企画などを予定しています。</p></div></div><div class="calendar-item"><div class="calendar-date" style="background:#dfe9d9;color:#45664a"><span>NIGHT</span><strong>18–20</strong></div><div><h3>夜の部</h3><p>12月20日（日）18:00〜20:00<br>夜の部の企画内容は順次お知らせします。</p></div></div></div></div></section>
 <section class="section" id="details"><div class="wrap event-box"><div class="event-intro"><span class="eyebrow" style="color:#f5d782">EVENT INFORMATION</span><h2>廃校文化祭に、<br>遊びに来ませんか？</h2><p>懐かしい学校で、新しい出会いと発見を。ご家族や友人と一緒に、ぜひお越しください。</p><span class="free">入場無料！</span></div><div class="event-facts"><div class="fact"><small>開催日</small><strong>令和8年12月20日（日）</strong></div><div class="fact"><small>時間</small><strong>昼の部 11:00〜16:00<br>夜の部 18:00〜20:00</strong></div><div class="fact"><small>会場</small><strong>旧蒲原東小学校</strong></div><div class="fact"><small>入場料</small><strong>無料</strong><br><small>※一部体験ブース・飲食は有料です。</small></div><div class="fact"><small>主催</small><strong>常葉大学地域貢献センター学生スタッフ Link</strong></div></div></div></section>
 <section class="section alt" id="access"><div class="wrap"><div class="section-head"><span class="eyebrow">ACCESS</span><h2>会場へのアクセス</h2><p>電車でも来場しやすい会場です。</p></div><div class="access-grid"><div class="access-illustration"><div><div class="station" aria-hidden="true">🚉</div><strong>JR新蒲原駅</strong><div>徒歩 約5分</div></div></div><div class="info-card"><h3>旧蒲原東小学校</h3><p>〒421-3203<br>
-      静岡県静岡市清水区蒲原666</p><p style="margin-top:14px">JR新蒲原駅から徒歩5分。<br>※駐車場や当日の入場口などの詳細は、決まり次第お知らせします。</p><p class="access-note" style="margin-top:16px">"https://www.google.com/maps/search/?api=1&query=静岡県静岡市清水区蒲原666"</p></div></div></div></section>
+      静岡県静岡市清水区蒲原666</p><p style="margin-top:14px">JR新蒲原駅から徒歩5分。<br>※駐車場や当日の入場口などの詳細は、決まり次第お知らせします。</p><p class="access-note" style="margin-top:16px">
+      <a href="https://www.google.com/maps/search/?api=1&query=静岡県静岡市清水区蒲原666"
+         target="_blank" rel="noopener noreferrer"
+         style="display: inline-block; padding: 14px 24px;
+                background: #e47745; color: white;
+                text-decoration: none; border-radius: 30px;
+                font-weight: bold;">
+        Googleマップで場所を見る ↗
 <section class="cta"><div class="wrap"><h2>この場所から、次のつながりへ。</h2><p>廃校文化祭の最新情報は、こちらのページで随時更新します。活動内容やスケジュールをぜひチェックしてください。</p><a class="btn" href="#activities">活動紹介を見る</a></div></section>
 </main>
 <footer><div class="wrap foot"><div><strong>廃校文化祭</strong><br><small>主催：常葉大学地域貢献センター学生スタッフ Link</small></div><small>© 2026 廃校文化祭 / Link</small></div></footer>
